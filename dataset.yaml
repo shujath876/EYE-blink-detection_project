@@ -1,0 +1,7 @@
+
+path: C:/Users/DELL/Documents/dataset
+train: C:/Users/DELL/Documents/dataset/train
+val: C:/Users/DELL/Documents/dataset/valid
+
+nc: 4  # Number of classes
+names: ['Yawn', 'close', 'noYawn', 'open']  # Replace with your class names

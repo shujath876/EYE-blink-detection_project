@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Yawn', 'close', 'noYawn', 'open']
+
+roboflow:
+  workspace: rethinkai2
+  project: dl-tracking-project
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rethinkai2/dl-tracking-project/dataset/1
