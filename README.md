@@ -12,7 +12,7 @@ app.py                  → Main code to run detection
 MODEL_TRAIN.ipynb       → Notebook for training the model
 
 best.pt / yolov8n.pt    → Trained models
-
+ 
 requirements.txt        → Dependencies
 
 dataset.yaml / data.yaml → Dataset configuration
@@ -59,6 +59,3 @@ Final Year B.Tech Student
  Email: imhussain003@gmail.com
 
 
----
-
-Feel free to copy-paste this into your README.md file! Let me know if you'd like help with anything else, such as pushing this to GitHub or setting up a demo.
