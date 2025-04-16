@@ -27,8 +27,6 @@ python app.py
 
 Demo
 
-Insert link to demo video or image (optional)
-
 How it Works
 
 1. Capture video input
@@ -38,6 +36,12 @@ How it Works
 3. Feed sequence of frames to LRCN model
 
 4. Predict blink / no blink
+
+   ![WhatsApp Image 2025-04-15 at 23 20 43_e1c855ee](https://github.com/user-attachments/assets/0cce795d-48c3-483c-afb4-4a004336642f)![WhatsApp Image 2025-04-15 at 23 16 30_975f0a92](https://github.com/user-attachments/assets/c95823ce-4b91-440e-b73d-828e9adafceb)
+![WhatsApp Image 2025-04-15 at 23 17 37_c275ffcb](https://github.com/user-attachments/assets/b21ffe76-3b8f-449f-a970-cc8cc9172d93)
+![WhatsApp Image 2025-04-15 at 23 20 15_76ef1050](https://github.com/user-attachments/assets/cbbc578b-059b-4c62-8ffb-68c3d981bde8)
+![WhatsApp Image 2025-04-15 at 23 20 43_e1c855ee](https://github.com/user-attachments/assets/01a96d06-5a0e-44d3-a963-4ea37396d6d5)
+
 
 Applications
 
