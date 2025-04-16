@@ -39,7 +39,6 @@ How it Works
 
    
 
-https://github.com/user-attachments/assets/8bedee52-d10c-4a77-a4f9-bfc47f205443
 
 
 https://github.com/user-attachments/assets/a9786d7f-ea2d-4313-9269-38a472a9cae5
