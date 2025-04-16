@@ -54,7 +54,7 @@ Eye-based human-computer interaction (HCI)
 Assistive tech for differently-abled individuals
 
 Author
-Shujath Ahmed
+Shujath Hussain
 Final Year B.Tech Student
  Email: imhussain003@gmail.com
 
